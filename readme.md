@@ -22,6 +22,6 @@
 > 
 > 11. docker ps -a
 > 
-12. rm -rf * (remove all files and foulders)
+> 12. rm -rf * (remove all files and foulders)
 >
 > localhost:3000 (in this url use in cloudflare tunnle
